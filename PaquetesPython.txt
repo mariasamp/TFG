@@ -1,0 +1,6 @@
+pip install pillow
+pip install pandas
+pip install customtkinter
+pip install pyautogui
+pip install statistics  # Viene incluido en la biblioteca estándar de Python, no es necesario instalarlo.
+pip install pywin32
